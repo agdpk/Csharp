@@ -1,0 +1,15 @@
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\bin\Debug\net6.0\task007последняя_цифра_числа.exe
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\bin\Debug\net6.0\task007последняя_цифра_числа.deps.json
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\bin\Debug\net6.0\task007последняя_цифра_числа.runtimeconfig.json
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\bin\Debug\net6.0\task007последняя_цифра_числа.dll
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\bin\Debug\net6.0\task007последняя_цифра_числа.pdb
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.csproj.AssemblyReference.cache
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.AssemblyInfoInputs.cache
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.AssemblyInfo.cs
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.csproj.CoreCompileInputs.cache
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.dll
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\refint\task007последняя_цифра_числа.dll
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.pdb
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\task007последняя_цифра_числа.genruntimeconfig.cache
+C:\Users\grisa\Desktop\C#\task007последняя_цифра_числа\obj\Debug\net6.0\ref\task007последняя_цифра_числа.dll

@@ -1,0 +1,15 @@
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\bin\Debug\net6.0\task003день_недели_по_числу.exe
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\bin\Debug\net6.0\task003день_недели_по_числу.deps.json
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\bin\Debug\net6.0\task003день_недели_по_числу.runtimeconfig.json
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\bin\Debug\net6.0\task003день_недели_по_числу.dll
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\bin\Debug\net6.0\task003день_недели_по_числу.pdb
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.csproj.AssemblyReference.cache
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.AssemblyInfoInputs.cache
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.AssemblyInfo.cs
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.csproj.CoreCompileInputs.cache
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.dll
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\refint\task003день_недели_по_числу.dll
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.pdb
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\task003день_недели_по_числу.genruntimeconfig.cache
+C:\Users\grisa\Desktop\C#\task003день_недели_по_числу\obj\Debug\net6.0\ref\task003день_недели_по_числу.dll

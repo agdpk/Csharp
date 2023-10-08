@@ -1,0 +1,15 @@
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.csproj.AssemblyReference.cache
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.AssemblyInfoInputs.cache
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.AssemblyInfo.cs
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.csproj.CoreCompileInputs.cache
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\bin\Debug\net6.0\task005числа _от_-n_до_n.exe
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\bin\Debug\net6.0\task005числа _от_-n_до_n.deps.json
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\bin\Debug\net6.0\task005числа _от_-n_до_n.runtimeconfig.json
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\bin\Debug\net6.0\task005числа _от_-n_до_n.dll
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\bin\Debug\net6.0\task005числа _от_-n_до_n.pdb
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.dll
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\refint\task005числа _от_-n_до_n.dll
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.pdb
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\task005числа _от_-n_до_n.genruntimeconfig.cache
+C:\Users\grisa\Desktop\C#\task005числа _от_-n_до_n\obj\Debug\net6.0\ref\task005числа _от_-n_до_n.dll
