@@ -47,9 +47,11 @@ public class Answer
     {
         // Введите свое решение ниже
         Console.WriteLine("The averages in columns are:");
+        
         for (int i = 0; i < list.Length; i++)
         {
-            Console.Write(list[i] + "\t");
+            
+            Console.Write(  $"{list[i]:F2}" + "\t");
         }
 
 
@@ -68,14 +70,14 @@ public class Answer
             for (int j = 0; j < matrix.GetLength(0); j++)
             {
                 sum += matrix[j, i];
-                System.Console.WriteLine(sum);
+                
 
 
             }
-            avgInCol = Math.Round(sum / matrix.GetLength(0), 2);
-            System.Console.WriteLine(avgInCol);
+            avgInCol = sum / matrix.GetLength(0);
+            
             sum = 0;
-            System.Console.WriteLine(sum);
+            
             
             average[i] = avgInCol;
             avgInCol = 0;
